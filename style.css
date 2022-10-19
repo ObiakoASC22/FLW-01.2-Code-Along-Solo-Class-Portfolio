@@ -16,7 +16,9 @@ html, body {
 
 /* task 13: add at least 1 Google Font - either for the headers or paragraphs. Or both! Also, make sure it's linked in the html pages you want it used on!*/
 
-
+body {
+  font-family: 'Fasthand', cursive;
+}
 a {
   color: #0080ff;
 }
